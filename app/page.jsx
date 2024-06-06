@@ -6,11 +6,8 @@ export default function Page() {
             <section className="flex flex-col items-start gap-3 sm:gap-4">
                 <h1 className="mb-0">External host</h1>
 
-                <Link
-                    href="https://universal-links-same-host.netlify.app/compliance?property=123456"
-                    className="btn btn-lg btn-primary sm:btn-wide"
-                >
-                    Link that goes to the app
+                <Link href="https://d9db0.app.link/xxjdIoia3Jb" className="btn btn-lg btn-primary sm:btn-wide">
+                    Link that goes to the app (another host)
                 </Link>
             </section>
         </main>
